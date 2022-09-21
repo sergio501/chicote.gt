@@ -1,0 +1,57 @@
+*{ box-sizing:bordebox;
+    margin:0; 
+    padding:0;
+}
+body{ 
+    background-color: rgb(1, 196, 255);
+}
+
+header{ 
+    display:flex; 
+    justify-content:space-between;
+    background:rgb(216, 254, 2);
+    align-items:center; 
+    padding: 20px;
+}
+ 
+#logo-empresa {
+    border: solid 1px;
+    display:flex; 
+    height:100px;
+    align-items:center;
+    text-decoration:none;
+    color: white;
+}
+#logo{
+    height: 150px; 
+    width: 150px;
+     margin-right:20px;
+     right: 20px;
+     font: size 30px;
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+     
+    }    
+#link-nav{
+    padding-right: 20px; font-size: 30px; text-decoration: none; color: white;
+    font-weight: bold;
+    color: lawngreen;
+}
+#empresa{ font-size:40px;
+}    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
